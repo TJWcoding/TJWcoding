@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TJWcoding
-- 👀 I’m interested in Cyber Security and Cloud Computing
-- 🌱 I’m currently learning basics of computer science and then the linux operating system
+- 👀 I’m interested in all things quantitative Finance/Automation
+- 🌱 I’m currently learning pinescript and strategy creation
 - 💞️ I’m looking to collaborate on anything that I can help with at this stage. Looking to network!
 - 📫 You can reach me at TJWcoding@protonmail.com
 
